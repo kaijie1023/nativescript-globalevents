@@ -27,10 +27,7 @@
     "name": "Nathanael Anderson",
     "email": "nathan@master-technology.com"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://git.proplugins.org/proplugins/nativescript-globalevents/blob/master/LICENSE"
-  },
+  "license": "Unsupported",
   "bugs": {
     "url": "https://git.proplugins.org/proplugins/nativescript-globalevents/issues"
   },
